@@ -4,7 +4,7 @@
 // @version      2026-01-28
 // @description  Clicker on card notification every 10sec
 // @author       Xelliar
-// @match        https://animesss.com/aniserials/video/action/*
+// @match        https://animesss.com/aniserials/video/*
 // @grant        none
 // ==/UserScript==
 
